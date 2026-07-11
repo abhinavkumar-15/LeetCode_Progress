@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
+| [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
+| [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Rolling Hash
 |  |
 | ------- |
