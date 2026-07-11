@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
