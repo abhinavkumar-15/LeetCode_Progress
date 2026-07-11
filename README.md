@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
