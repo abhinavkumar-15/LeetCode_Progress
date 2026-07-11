@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
