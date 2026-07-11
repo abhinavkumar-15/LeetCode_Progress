@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
+| [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 ## Rolling Hash
 |  |
 | ------- |
