@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
