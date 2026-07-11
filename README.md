@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
