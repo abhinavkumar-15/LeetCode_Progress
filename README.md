@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0223-rectangle-area) |
+| [2235-add-two-integers](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
