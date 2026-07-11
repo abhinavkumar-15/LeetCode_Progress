@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
