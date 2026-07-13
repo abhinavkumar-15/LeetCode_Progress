@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Trie
 |  |
