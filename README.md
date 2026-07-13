@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
