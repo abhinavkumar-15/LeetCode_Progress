@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
