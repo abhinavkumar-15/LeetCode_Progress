@@ -10,8 +10,3 @@ class Solution:
         for k,v in freq.items():
             if v==val:
                 return k
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        
