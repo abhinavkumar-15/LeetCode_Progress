@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -252,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
