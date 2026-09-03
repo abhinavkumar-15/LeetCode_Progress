@@ -1,3 +1,4 @@
+"""
 from collections import Counter
 class Solution:
     def frequencySort(self, s: str) -> str:
@@ -9,10 +10,19 @@ class Solution:
                 if arr[j][1] < arr[j + 1][1]:
                     arr[j], arr[j + 1] = arr[j + 1], arr[j]
         freq=dict(arr)
-        for num,count in freq.items():
+        for ch,count in freq.items():
             for j in range(count):
-                out+=num
+                out+=ch
         
         return out
 
-        
+"""
+from collections import Counter
+class Solution:
+    def frequencySort(self, s: str) -> str:
+        freq=Counter(s)
+        chars = sorted(freq, key=lambda x: freq[x],reverse=True)
+        res=[]
+        for ch in chars:
+            res.append(ch*freq[ch])
+        return "".join(res)
