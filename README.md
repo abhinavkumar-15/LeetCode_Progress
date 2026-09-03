@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
