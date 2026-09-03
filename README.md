@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Backtracking
 |  |
