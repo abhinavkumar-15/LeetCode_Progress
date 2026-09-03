@@ -9,7 +9,6 @@ class Solution:
                 if arr[j][1] < arr[j + 1][1]:
                     arr[j], arr[j + 1] = arr[j + 1], arr[j]
         freq=dict(arr)
-        print(freq)
         for num,count in freq.items():
             for j in range(count):
                 out+=num
