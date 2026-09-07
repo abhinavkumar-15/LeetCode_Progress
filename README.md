@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0223-rectangle-area) |
 | [2235-add-two-integers](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
