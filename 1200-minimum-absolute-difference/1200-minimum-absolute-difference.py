@@ -16,7 +16,3 @@ class Solution:
                 res.append([arr[i - 1], arr[i]])
 
         return res
-
-
-
-        
