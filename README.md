@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0881-boats-to-save-people) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0067-add-binary) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
