@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0724-find-pivot-index) |
