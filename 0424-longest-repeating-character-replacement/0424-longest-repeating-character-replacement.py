@@ -7,16 +7,16 @@ class Solution(object):
     max_length = 0
 
     for right in range(len(s)):
-      # Expand the window by adding s[right]
+      
       count[s[right]] = count.get(s[right], 0) + 1
       max_count = max(max_count, count[s[right]])
 
-      # If replacements needed > k, shrink window from left
+      
       while (right - left + 1) - max_count > k:
         count[s[left]] -= 1
         left += 1
 
-      # Update the maximum valid window length
+      
       max_length = max(max_length, right - left + 1)
 
     return max_length
