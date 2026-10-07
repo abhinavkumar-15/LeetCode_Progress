@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0881-boats-to-save-people) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
