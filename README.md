@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2561-rearranging-fruits](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2561-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2561-rearranging-fruits](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2561-rearranging-fruits) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1268-search-suggestions-system) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2561-rearranging-fruits](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2561-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Backtracking
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0045-jump-game-ii) |
 | [0881-boats-to-save-people](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
+| [2561-rearranging-fruits](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2561-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/2706-buy-two-chocolates) |
 ## Rolling Hash
 |  |
