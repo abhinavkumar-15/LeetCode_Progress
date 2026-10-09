@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1029-two-city-scheduling) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinavkumar-15/LeetCode_Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
